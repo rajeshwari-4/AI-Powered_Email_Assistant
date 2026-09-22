@@ -1,0 +1,6 @@
+.claude/settings.local.json
+.claude/settings.json
+
+# Runtime briefing output — contains real personal inbox content (HTML + audio).
+# Never commit this: it's per-user data, not project logic.
+briefings/
